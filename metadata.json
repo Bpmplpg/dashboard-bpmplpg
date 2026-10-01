@@ -1,0 +1,6 @@
+{
+  "name": "BPMP Lampung Quality Intelligence Dashboard",
+  "description": "Dashboard Interaktif Mutu Sekolah & Capaian 8 Standar Nasional Pendidikan (SPMI) BPMP Provinsi Lampung",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
